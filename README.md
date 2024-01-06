@@ -1,2 +1,4 @@
 # c-project
-new reo
+FIRST C PROJECT
+AUTHOUR -BOOALI KAZMI
+
