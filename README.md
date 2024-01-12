@@ -2,6 +2,8 @@
 FIRST C PROJECT
 <br>
 AUTHOUR -BOOALI KAZMI
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
