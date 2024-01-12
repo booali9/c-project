@@ -2,13 +2,17 @@
 FIRST C PROJECT
 <br>
 AUTHOUR -BOOALI KAZMI
-
+<br>
 
 #include <stdio.h>
+<br>
 #include <stdlib.h>
+<br>
 #include <time.h>
+<br>
 int main()
 {
+
 	int i,n,sum=0;
 	
 	printf("\nenter no of dice roll\n");
